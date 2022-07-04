@@ -1,1 +1,0 @@
-# skywars-auto-win
